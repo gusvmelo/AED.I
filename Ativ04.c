@@ -37,7 +37,6 @@ int main() {
         }
     }
 
-    char 
     //Fim das funçoes
 
     //Leitura dos meu numeros decimais
@@ -66,7 +65,7 @@ int main() {
     while(indresult2<8 && indnumb2<8) {
         numb2[indnumb2]=inttochar(resultnum2[indresult2]);
         indresult2++;
-        indnumb2=indnumb2++;
+        indnumb2++;
     }
 
     //Soma
@@ -111,5 +110,5 @@ int main() {
 
 
 
-
+    return 0;
 }
