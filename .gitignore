@@ -1,3 +1,5 @@
-Ativ02
-Ativ03
-Ativ04
+# ignora os arquivos terminados em .out
+*.out
+
+# para windows
+*.exe
